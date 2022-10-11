@@ -1,0 +1,167 @@
+#logo span{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#logo{
+    font-family:segoe script;
+}
+.about1{
+    font-size: 35px;
+    font-family: gotham;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 60px;
+}
+.about2{
+    font-size: 70px;
+    font-family:segoe script;
+    margin-top: -22px;
+}
+.about2 span{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.about3{
+    font-family: gotham;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+/*-------Cards------*/
+
+#counter{
+    font-family: gotham;
+}
+
+#card1{
+    margin-top: 11.5px;
+}
+#card2{
+    margin-top: 11.5px;
+}
+#card3{
+    margin-top: 11.5px;
+}
+ 
+/*----Testimonial----*/
+
+
+#review {
+    font-family: gotham;
+}
+
+.card-header{
+    color: #9ea6ad;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.card-text {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#card-head2{
+    color: white;
+}
+
+#testimonial-heading{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+/*----------Footer--------------*/
+
+.footer-logo {
+    font-family: segoe script;
+    font-size: 30px;
+    color: white;
+}
+
+#footer{
+    font-family: gotham;
+}
+
+#address{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+p.address{
+    font-size: 18px;
+    font-weight: 400;
+    color: #9ea6ad;
+}
+
+#email{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+p.email{
+    font-size: 18px;
+    font-weight: 400;
+    color: #9ea6ad;
+}
+
+#phones{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+p.phones{
+    font-size: 18px;
+    font-weight: 400;
+    color: #9ea6ad;
+}
+
+#footer-b li a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #9ea6ad;
+    text-decoration: none;
+}
+
+h1.footer-b{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    margin-top: 42px;
+}
+
+#footer-c li a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #9ea6ad;
+    text-decoration: none;
+}
+
+h1.footer-c{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    margin-top: 42px;
+}
+
+#footer-d li a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #9ea6ad;
+    text-decoration: none;
+}
+
+h1.footer-d{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    margin-top: 42px;
+}
+
+#social-1 i{
+    background-color: white;
+}
+
